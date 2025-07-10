@@ -1,0 +1,22 @@
+export const ADD_WORKOUT="ADD_WORKOUT";
+export const DELETE_WORKOUT="DELETE_WORKOUT";
+export const ALL_WORKOUT="ALL_WORKOUT";
+export const EDIT_WORKOUT="EDIT_WORKOUT";
+export const GET_WORKOUT_BY_ID="GET_WORKOUT_BY_ID";
+
+
+export const ADD_DIET="ADD_DIET";
+export const ALL_DIET="ALL_DIET";
+export const DELETE_DIET="DELETE_DIET";
+
+
+
+export const ASSIGN_DIET="ASSIGN_DIET";
+export const UNASSIGN_DIET="UNASSIGN_DIET";
+export const ASSIGN_WORKOUT="ASSIGN_WORKOUT";
+export const UNASSIGN_WORKOUT="UNASSIGN_WORKOUT";
+
+
+export const TRAINER_BY_ID="TRAINER_BY_ID";
+
+

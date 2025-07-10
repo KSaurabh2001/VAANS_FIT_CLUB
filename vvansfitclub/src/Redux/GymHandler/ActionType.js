@@ -1,0 +1,19 @@
+export const ADD_CLASS= "ADD_CLASS";
+export const ALL_CLASS= "ALL_CLASS";
+export const DELETE_CLASS="DELETE_CLASS";
+export const EDIT_CLASS="EDIT_CLASS";
+export const GET_CLASS_BY_ID="GET_CLASS_BY_ID";
+
+export const ASSIGN_CLASS ="ASSIGN_CLASS";
+export const UNASSIGN_CLASS ="UNASSIGN_CLASS";
+
+export const ASSIGN_TRAINER="ASSIGN_TRAINER";
+export const UNASSIGN_TRAINER="UNASSIGN_TRAINER";
+
+export const VERIFY_PAYMENT="VERIFY_PAYMENT";
+export const USER_BY_ID="USER_BY_ID";
+export const TRAINER_BY_ID="TRAINER_BY_ID";
+
+
+
+

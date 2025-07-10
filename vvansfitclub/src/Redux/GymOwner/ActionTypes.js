@@ -1,0 +1,31 @@
+export const ADD_GYM= "ADD_GYM";
+export const ALL_GYM= "ALL_GYM";
+export const DELETE_GYM="DELETE_GYM";
+export const EDIT_GYM="EDIT_GYM";
+export const GET_GYM_BY_ID="GET_GYM_BY_ID"
+
+
+export const ADD_MEMBERSHIP = "ADD_MEMBERSHIP";
+export const ALL_MEMBERSHIP ="ALL_MEMBERSHIP";
+export const DELETE_MEMBERSHIP="DELETE_MEMBERSHIP";
+export const GET_MEMBERSHIP_BY_ID="GET_MEMBERSHIP_BY_ID";
+
+
+export const ADD_HANDLER= "ADD_HANDLER";
+export const ALL_HANDLER= "ALL_HANDLER";
+export const DELETE_HANDLER="DELETE_HANDLER";
+
+
+export const ADD_USER="ADD_USER";
+export const DELETE_USER="DELETE_USER";
+export const ALL_USER="ALL_USER";
+
+export const ADD_TRAINER="ADD_TRAINER";
+export const DELETE_TRAINER="DELETE_TRAINER";
+export const ALL_TRAINER="ALL_TRAINER";
+
+export const ASSIGN_GYM_HANDLER="ASSIGN_GYM_HANDLER";
+export const UNASSIGN_GYM_HANDLER="UNASSIGN_GYM_HANDLER";
+
+
+
